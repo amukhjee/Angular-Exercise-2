@@ -6,6 +6,11 @@ img {
 
 }
 
-.photos {
+
+
+.photos{
    text-align: center;
+   width: 100%;
+   height: 100px;
+   object-fit:scale-down;
 }
